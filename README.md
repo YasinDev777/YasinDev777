@@ -1,4 +1,4 @@
-# 💫 About Me
+# 🖋️ About Me
 - 👋 Hi, I’m Yasin Karimov
 - 👨‍💻 I’m a Frontend Developer with strong skills in React, JavaScript (ES6+), and TypeScript.
 - ⚙️ I work with advanced React hooks, rendering optimization, and state managers like MobX and Redux.
