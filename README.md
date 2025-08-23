@@ -1,6 +1,6 @@
 # 🖋️ About Me
 - 👋 Hi, I’m Yasin Karimov
-- 👨‍💻 I’m a Frontend Developer with strong skills in React, JavaScript (ES6+), and TypeScript.
+- 👨‍💻 I’m a Frontend Developer with strong skills in Next.js, React, JavaScript (ES6+), and TypeScript.
 - ⚙️ I work with advanced React hooks, rendering optimization, and state managers like MobX and Redux.
 - 🔧 I have backend experience with Node.js (basic level) and integration with databases such as Firebase and MySQL.
 - 🌍 I build full-stack applications using Next.js, and I’m constantly improving my architecture and performance skills.
